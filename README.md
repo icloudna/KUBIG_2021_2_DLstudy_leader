@@ -18,6 +18,8 @@
 |  6주차  | 2021.08.19 | **코딩실습 + 과제발표** | Attention |  
 |  7주차  | 2021.08.26 | **대회소개** | CV 대회 : Human Protein Atlas Image Classification, NLP 대회: Dacon 뉴스 기사 분류 |
 
+<br>
+
 ## ✏️ 방학 스터디 과제 로드맵
 
 |   주차   |   일정   |   내용   |   스터디 과제   | 
